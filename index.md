@@ -1,3 +1,3 @@
-11min
+## Jiyeon Kim
 
-New Album Coming Up
+
