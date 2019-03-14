@@ -1,1 +1,1 @@
-![alt text](howling_jiyeonkim_pic.png)
+![alt text](img/howling_jiyeonkim_pic.png)
