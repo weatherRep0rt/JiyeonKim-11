@@ -5,7 +5,9 @@ soundcamp, jeju <br><br>
 soundcamp, seoul  <br><br>
 
 live streamer setup, jeju<br><br>
-<img src="../img/jeju_streamer.png"><br>
+<img src="../img/jeju_streamer.png"><br><br>
+
+Multi-input Network Synthesizer, installation<br><br> 
 
 2017<br>
 soundcamp, jeju<br><br>
