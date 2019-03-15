@@ -5,7 +5,7 @@ soundcamp, jeju <br><br>
 soundcamp, seoul  <br><br>
 
 live streamer setup, jeju<br><br>
-<img src="../img/jeju_streamer"><br>
+<img src="../img/jeju_streamer.png"><br>
 
 2017<br>
 soundcamp, jeju<br><br>
