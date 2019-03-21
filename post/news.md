@@ -1,4 +1,4 @@
-[20190329] 피아노 데이 서울 2019 Piano Day Seoul 2019, Jeokdo(KR), San Mei Gallery(BR)<br>
+[20190329] 피아노 데이 서울 Piano Day Seoul 2019 @적도(KR), 산 메이 갤러리(BR)<br>
 [20190226] 월례움직임 Monthly Performance @적도<br>
 [20190126] 18th 하울링 라이브 Howling Live @적도<br>
 [20190120] 오로음감회, live with 오로 @적도<br>
