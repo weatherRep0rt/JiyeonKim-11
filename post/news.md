@@ -1,7 +1,7 @@
 [20190329] 피아노 데이 서울 2019 Piano Day Seoul 2019, Jeokdo(KR), San Mei Gallery(BR)<br>
-[20190226] 월례움직임 Monthly Performance @Jeokdo<br>
-[20190126] 18th 하울링 라이브 Howling Live @Jeokdo<br>
-[20190120] 오로음감회, live with 오로 @Jeokdo<br>
+[20190226] 월례움직임 Monthly Performance @적도<br>
+[20190126] 18th 하울링 라이브 Howling Live @적도<br>
+[20190120] 오로음감회, live with 오로 @적도<br>
 [20181123] 11min @무대륙<br> 
 [20181015] 웨더리포트, 제주 상시 스트리머 설치 @ 문화공간 양<br>
 [20181007] <김군>(감독 강상우) 영화음악 @부산국제영화제 와이드앵글부문<br>
