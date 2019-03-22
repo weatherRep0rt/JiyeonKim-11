@@ -1,6 +1,6 @@
 [About](post/aboutcv.md)<br>
 [News](post/news.md)<br>
-[Support](post/support.md)<br><br>
+[Buy](post/buy.md)<br><br>
 
 [11---*performance, records*](post/11.md)<br>
 [11min---*performances, records*](post/11min.md)<br>
