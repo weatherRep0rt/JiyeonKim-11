@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=GEEisAjKbek&t=16s
 2016<br>
 soundcamp, jeju<br><br>
 
+Resonancefm
+
+2015
+NTS Radio
+
