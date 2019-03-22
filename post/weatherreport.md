@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=GEEisAjKbek&t=16s
 
 # 2016<br>
 
+## weather report (July - September) weekly live streaming<br>
+
 ## soundcamp, jeju<br><br>
 
 ## Resonancefm, Clear Spot - 16th September 2016 <br>
