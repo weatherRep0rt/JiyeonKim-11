@@ -4,4 +4,4 @@ Jiyeon Kim is musician, playing her own compositions for piano and electronics. 
 <img src="../img/icon.png"><br><br>
 
 email teum11@gmail.com<br>
-instagram @11_musician, @jiyeonkimsound
+instagram [@11_musician](https://instagram.com/11_musician), [@jiyeonkimsound](https://instagram.com/jiyeonkimsound)
