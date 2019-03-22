@@ -8,7 +8,7 @@ Signe Liden, Weather Reports Back
 soundcamp, seoul<br><br>
 
 live streamer setup, jeju<br><br>
-http://locus.creacast.com:9001/jeju_georo.mp3
+http://locus.creacast.com:9001/jeju_georo.mp3<br>
 <img src="../img/jeju_streamer.png"><br><br>
 
 Multi-input Network Synthesizer, installation<br><br> 
