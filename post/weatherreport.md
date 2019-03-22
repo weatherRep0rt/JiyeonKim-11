@@ -10,7 +10,6 @@
 
 ## live streamer setup, jeju<br>
 http://locus.creacast.com:9001/jeju_georo.mp3<br>
-<img src="../img/jeju_streamer.png"><br><br>
 
 ## Multi-input Network Synthesizer, installation<br><br> 
 
@@ -24,7 +23,7 @@ https://www.youtube.com/watch?v=GEEisAjKbek&t=16s
 
 ## soundcamp, jeju<br><br>
 
-## Resonancefm, Clear Spot - 16th September 2016 <br><br>
+## Resonancefm, Clear Spot - 16th September 2016 <br>
 https://www.mixcloud.com/Resonance/clear-spot-weather-report-16th-september-2016/
 
 ## weather report book + audio publication<br><br>
