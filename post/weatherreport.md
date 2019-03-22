@@ -1,6 +1,6 @@
-# *2019<br>
+# 2019<br>
 
-## *soundcamp, jeju <br><br>
+## soundcamp, jeju <br><br>
 
 # 2018<br>
 
