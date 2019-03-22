@@ -6,7 +6,7 @@
 
 ## Signe Liden, Weather Reports Back
 
-## soundcamp, seoul<br><br>
+## soundcamp, seoul<br>
 
 ## live streamer setup, jeju<br>
 http://locus.creacast.com:9001/jeju_georo.mp3<br>
