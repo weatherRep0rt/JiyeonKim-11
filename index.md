@@ -1,5 +1,5 @@
 [About](post/aboutcv.md)<br>
-[News](post/news.md)<br><br>
+[News](post/news.md
 [Support](post/support.md)<br><br>
 
 [11---*performance, records*](post/11.md)<br>
