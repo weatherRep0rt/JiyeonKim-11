@@ -8,7 +8,7 @@
 
 ## soundcamp, seoul<br><br>
 
-## live streamer setup, jeju<br><br>
+## live streamer setup, jeju<br>
 http://locus.creacast.com:9001/jeju_georo.mp3<br>
 <img src="../img/jeju_streamer.png"><br><br>
 
