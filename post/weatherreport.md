@@ -30,11 +30,11 @@ https://www.mixcloud.com/Resonance/clear-spot-weather-report-16th-september-2016
 
 # 2015<br>
 
-## 누워서 듣는 시간, 제주<br><br> 
+## 누워서 듣는 시간, 제주<br> 
 
-## weather report (August - December) weekly live streaming<br><br>
+## weather report (August - December) weekly live streaming<br>
 
-## NTS Radio<br><br>
+## NTS Radio<br>
 
 ## 안양공공예술프로젝트 
 
