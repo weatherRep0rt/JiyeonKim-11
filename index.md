@@ -1,6 +1,6 @@
 [About/CV](post/aboutcv.md)<br>
 [News](post/news.md)<br><br>
-
+<img src="img/icon.png">
 [11---*performance, records*](post/11.md)<br>
 [11min---*performances, records*](post/11min.md)<br>
 [weather report---*radio, publication, installation, camp*](post/weatherreport.md)<br>
@@ -10,5 +10,5 @@
 [Transparent Music---*performances, records, publication, screening*](post/tm.md)<br>
 
 
-<img src="img/hands_hairs.png">
+
 
