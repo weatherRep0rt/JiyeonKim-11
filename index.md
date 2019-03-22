@@ -11,4 +11,4 @@
 
 
 ![](post/img/hands_hairs.png)
-<img src="../img/hands_hairs.png">
+
