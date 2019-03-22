@@ -10,5 +10,5 @@
 [Transparent Music---*performances, records, publication, screening*](post/tm.md)<br>
 
 
-<img src="../img/hands_hairs.png">
+<img src="img/hands_hairs.png">
 
