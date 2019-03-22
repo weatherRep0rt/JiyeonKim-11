@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=GEEisAjKbek&t=16s
 2016<br>
 soundcamp, jeju<br><br>
 
-Resonancefm<br><br>
+Resonancefm, Clear Spot - 16th September 2016 <br><br>
+https://www.mixcloud.com/Resonance/clear-spot-weather-report-16th-september-2016/
+
 
 weather report book + audio publication<br><br>
 
