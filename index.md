@@ -1,4 +1,4 @@
-[About/CV](post/aboutcv.md)<br>
+[About](post/aboutcv.md)<br>
 [News](post/news.md)<br><br>
 <img src="img/icon.png"><br><br>
 [11---*performance, records*](post/11.md)<br>
