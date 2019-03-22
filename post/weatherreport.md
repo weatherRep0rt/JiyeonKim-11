@@ -23,6 +23,8 @@ soundcamp, jeju<br><br>
 
 Resonancefm<br><br>
 
+weather report book + audio publication<br><br>
+
 2015<br>
 NTS Radio<br>
 
