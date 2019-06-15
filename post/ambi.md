@@ -1,5 +1,5 @@
-[ambient exchange](ambi.md)<br>
+[ambient exchange : jeju - london network sound performance](ambi.md)<br>
 <img src="../img/ambi_jeju"><br>
 <img src="../img/ambi_london.jpg"><br>
-<img src="../img/ambi_qna.jpg"><br>
+<img src="../img/ambi_qna.JPG"><br>
 <img src="../img/ambi_flyer.jpg"><br>
