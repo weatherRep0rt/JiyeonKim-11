@@ -2,7 +2,7 @@
 
 ## [ambient exchange : jeju - london network sound performance](ambi.md)<br>
 
-## [Piano Day 2019 seoul - london](pd2019.md)<br><br>
+## [Piano Day 2019](pd2019.md)<br><br>
 
 # 2018<br>
 
