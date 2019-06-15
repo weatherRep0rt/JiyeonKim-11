@@ -1,6 +1,7 @@
 # 2019<br>
 
-## ambient exchange : jeju - london network sound performance <br><br>
+## [ambient exchange : jeju - london network sound performance](ambi.md)<br>
+<img src="../img/ambi.png"><br><br>
 
 ## Piano Day 2019 seoul - london <br><br>
 
