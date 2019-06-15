@@ -1,6 +1,8 @@
 # 2019<br>
 
-## ambient exchange : jeju - london network sound performance with Sam and Max <br><br>
+## ambient exchange : jeju - london network sound performance <br><br>
+
+## Piano Day 2019 seoul - london <br><br>
 
 # 2018<br>
 
