@@ -2,22 +2,22 @@
 
 ## [ambient exchange : jeju - london network sound performance](ambi.md)<br>
 
-## Piano Day 2019 seoul - london <br><br>
+## [Piano Day 2019 seoul - london](pd2019.md)<br><br>
 
 # 2018<br>
 
 ## Signe Liden, Weather Reports Back
 
-## soundcamp, seoul<br>
+## [soundcamp, seoul](scseoul2018.md)<br>
 
-## live streamer setup, jeju<br>
+## [live streamer setup, jeju](jejustreamer.md)<br>
 http://locus.creacast.com:9001/jeju_georo.mp3<br>
 
-## Multi-input Network Synthesizer, installation<br><br> 
+## [Multi-input Network Synthesizer, installation](multiinput.md)<br><br> 
 
 # 2017<br>
 
-## soundcamp, jeju<br><br>
+## [soundcamp, jeju](scjeju2017.md)<br><br>
 
 https://www.youtube.com/watch?v=GEEisAjKbek&t=16s
 
