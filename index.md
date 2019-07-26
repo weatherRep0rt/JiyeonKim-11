@@ -19,7 +19,7 @@ Jiyeon Kim is musician, playing her own compositions for piano and electronics. 
 [weather report](https://vimeo.com/user98689565)<br><br>
 
 instagram: [@11_musician](https://instagram.com/11_musician) [@jiyeonkimsound](https://instagram.com/jiyeonkimsound)<br>
-facebook: [@11.weathermusic](https://www.facebook.com/11.weathermusic/)<br><br>
+facebook: [@11.weathermusic](https://www.facebook.com/11.weathermusic/)<br>
 Email: teum11@gmail.com<br>
 
 
