@@ -2,7 +2,7 @@
 [News](post/news.md)<br>
 [Buy](post/buy.md)<br><br>
 
-<img src="../img/icon.png"><br>
+<img src="/img/icon.png"><br>
 
 
 <!---[Jiyeon Kim---*music project, performance*](post/jiyeonkim.md)<br>
