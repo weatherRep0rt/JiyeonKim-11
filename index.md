@@ -1,6 +1,7 @@
 <!--[About](post/aboutcv.md)<br>-->
 [News](post/news.md)<br>
 [Buy](post/buy.md)<br><br>
+[Project Links](post/pl.md)<br><br>
 
 
 <img src="img/icon.png"><br><br>
@@ -12,6 +13,8 @@ Jiyeon Kim is musician, playing her own compositions for piano and electronics. 
 [11min---*performances, records*](post/11min.md)<br>
 [weather report---*radio, publication, installation, camp*](post/weatherreport.md)<br>
 [Transparent Music---*performances, records, publication, screening*](post/tm.md)<br>--->
+
+
 
 
 
