@@ -59,6 +59,7 @@
 [201607-09]&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주<br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
+[20160111] 업사이클 라운드업 &lt;선유도-소리의정원&gt; 상영, 문래예술공장<br>
 [201601] 웨더리포트(2015년 8-12월, 제주) 발간<br>
 
 ---
