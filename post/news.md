@@ -1,3 +1,4 @@
+[20191206] &lt;dichterliebe:detachment&gt;(연출 구자민), 오디오가이<br>
 [20190922] 11min &lt;snow&gt; 발매공연, 적도<br>
 [20190920] 11min &lt;snow&gt; 발매공연, 스튜디오로그<br>
 [20190830] 리서치프로젝트 &lt;듣다&gt; 전시, KOCCA 콘텐츠문화광장<br>
