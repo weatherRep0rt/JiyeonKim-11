@@ -1,4 +1,4 @@
-[About](post/aboutcv.md)<br>
+<!--[About](post/aboutcv.md)<br>-->
 [News](post/news.md)<br>
 [Buy](post/buy.md)<br><br>
 
