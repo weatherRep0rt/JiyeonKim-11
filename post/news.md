@@ -46,25 +46,26 @@
 [20170429] <데이터 감각, 시간 감각>-&lt;투명한 음악&gt; 리뷰북 출간<br>
 [20170401] 11 &lt;Transparent Music&gt; 앨범발매 공연, 스튜디오로그<br>
 [20170324] ToBeContinued, stazionediopolo<br>
+[20170309] <Transparent Music> 발매<br>
 [20170205] <투명한 음악>, 문래예술공장<br> 
 
 ---
 
 [20161125] 세계시민 - 소리로 짓는 환경 , 업사이틀 라운드업 &lt;선유도-소리의 정원&gt; 상영 및 쇼케이스 공연, 리움 인터미디어 극장<br> 
-[20161111] <반쯤 열린 방>(기획 차승주), 인사미술공간<br>
+[20161111] &lt;반쯤 열린 방&gt;(기획 차승주),인사미술공간<br>
 [20160916] 웨더리포트, Clear Spot, resonanceFM(런던)<br>
 [20160904] &lt;다섯가지 음맞춤&gt;, 제주문화공간 양<br>
 [20160904] 한-영 리서치 트립<br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
-[201601] 웨더리포트(2015 8-12월, 제주) 발간<br>
+[201601] 웨더리포트(2015년 8-12월, 제주) 발간<br>
 
 ---
 
 [20151227] &lt;구경꾼-처럼, 곁에 했다&gt;(안무 장현준), 공동음악감독, 한국예술종합학교 예술극장<br>
 [201511] &lt;리스닝 진 워크숍&gt;, 시안미술관<br>
 [20151022] &lt;천상열차분야지도&gt;(감독 박찬경), 음악, 국립무형유산영상페스티벌 개막작<br>
-[20150604] &lt;Passing Glitches&gt;(기획 Joseph Constable), Peckhamplex(런던)<br>
+[20150604] &lt;Passing Glitches&gt;(기획 Joseph Constable), Peckhamplex, London<br>
 [20150430] 라이브 스트리밍 제주, reveil<br>
 [20150125] &lt;속삭임의 회랑&gt;(작가 김태원), 사운드 인스톨레이션, 은평구립도서관<br>
 
@@ -75,19 +76,42 @@
 [20140902] &lt;Grandmothers’ Lounge – From the Other Side of Voices&gt;, 공동작가, SeMa Biennale MediaCity Seoul 2014<br>
 [20140720] 은하수를 여행하는 전자음악가를 위한 안내서 vol.2, 살롱 바다비<br>
 [20140619] 정신up데이, 살롱 바다비<br>
-[20140619] 11EP 발매공연, 무대륙<br>
-[20140306] 11EP release<br>
+[20140619] 11EP 발매 공연, 무대륙<br>
+[20140306] 11EP 발매<br>
 [20140228] &lt;펼친 책의 왼쪽 페이지 - 미세조정&gt; 클로징 퍼포먼스, 문래예술공장
 [20140214] dawn scarfe & jiyeon kim - last days of autumn release, a quiet position - screened # 1 release(curated by JrF)<br>
+
 ---
 
-[20131214] 업사이클 라운드업 &lt;밝은밤&gt;, 무대륙<<br>
+[20131214] 업사이클 라운드업 &lt;밝은밤&gt;, 무대륙<br>
+[20131114] TOUCH PRESENTS: ACHIM MOHNÉ + SOHRAB + JIYEON KIM, Cafe oto, London<br>
 [20131112] TOUCH PRESENTS: ACHIM MOHNÉ, SOHRAB, JIYEON KIM, Ausland, Berlin<br>
-[20130914] TOUCH PRESENTS: ACHIM MOHNÉ + SOHRAB + JIYEON KIM, Cafe oto, London<br>
+[20131109] &lt;ART ASSEMBLY AND TOUCH PRESENT SOHRAB & JIYEON KIM IN HIDDEN NARRATIVES OF EMPTY SPACES.&gt;, THE PECKHAM PELICAN<br>
 [20131107] &lt;Permutations: Dawn Scarfe and Jiyeon Kim&gt;, MK Gallery<br>
 [20131024] &lt;On Listening&gt;, live streaming performance, with dawn scarfe, MoKs<br>
-[201310] MoKs residency<br>
+[20131017] 업사이클 라운드업, Dimanche Rouge Festival<br>
+[20131001] MoKs residency<br>
 [20130914] &lt;공공적 소란:1998-2012-17개의 사회적 미술 아카이브 프로젝트 중 서행, 질주, 무단침입의 여럿 제안&gt;, 아트 스페이스 풀<br>
+[20130928] 업사이클 라운드업 &lt;두 번째 노래&gt;, 성미산극장<br>
+[20130831] Deus ex Machina Radio, 원픽셀<br>
+[20130826] 리슨투더라이트 워크숍, 볍씨학교<br>
+[20130411] kdvs radio, Sounds like works(hosted by Loren)<br>
+[20130324] ToBeContinued, stazionediopolo<br>
+
+---
+
+[20121009] 업사이클 라운드업 vol.1, 문례예술공장<br> 
+[20121026] 퍼포먼스, 로라이즈<br>
+[20120717] TOUCH invites...with Maia Urstad, Sandra Jasper, Dawn Scarfe, Cafe oto<br>
+[20120708] Stazione di Topolo, Italy<br>
+[20120708] FARM residency, Italy<br>
+[20120627] field recording sound performance, cafe O:wl<br>
+[20120625] PORTOBESEBNO residency, Italy<br>
+[20120110] &lt;Urban Oscillators: Sound Localities Mix Compilation&gt;(curated by Ashely Wong)<br>
+[20120308] 사운드아트랩, &lt;마이크 앤 리스닝&gt;, 서교예술실험센터<br> 
+
+
+
 
 
 
