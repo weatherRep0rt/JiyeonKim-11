@@ -88,9 +88,9 @@
 [20131112] TOUCH PRESENTS: ACHIM MOHNÉ, SOHRAB, JIYEON KIM, Ausland, Berlin<br>
 [20131109] &lt;ART ASSEMBLY AND TOUCH PRESENT SOHRAB & JIYEON KIM IN HIDDEN NARRATIVES OF EMPTY SPACES.&gt;, THE PECKHAM PELICAN<br>
 [20131107] &lt;Permutations: Dawn Scarfe and Jiyeon Kim&gt;, MK Gallery<br>
-[20131024] &lt;On Listening&gt;, live streaming performance, with dawn scarfe, MoKs<br>
+[20131024] &lt;On Listening&gt;, live streaming performance, with dawn scarfe, MoKS<br>
 [20131017] 업사이클 라운드업, Dimanche Rouge Festival<br>
-[20131001] MoKs residency<br>
+[20131001] MoKS residency<br>
 [20130914] &lt;공공적 소란:1998-2012-17개의 사회적 미술 아카이브 프로젝트 중 서행, 질주, 무단침입의 여럿 제안&gt;, 아트 스페이스 풀<br>
 [20130928] 업사이클 라운드업 &lt;두 번째 노래&gt;, 성미산극장<br>
 [20130831] Deus ex Machina Radio, 원픽셀<br>
@@ -100,7 +100,7 @@
 
 ---
 
-[20121009] 업사이클 라운드업 vol.1, 문례예술공장<br> 
+[20121009] 업사이클 라운드업 vol.1, 문례예술공장<br>
 [20121026] 퍼포먼스, 로라이즈<br>
 [20120717] TOUCH invites...with Maia Urstad, Sandra Jasper, Dawn Scarfe, Cafe oto<br>
 [20120708] Stazione di Topolo, Italy<br>
