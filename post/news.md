@@ -22,8 +22,8 @@
 [20180424] 월례움직임 Monthly Performance @ 조아라 몸소리연구소<br>
 [20180329] **피아노 데이 서울 2018 Piano Day Seoul 2018**, @스튜디오 로그<br>
 [20180324] **투명한 음악** (연출 조용기) 상영 @ 인디다큐페스티벌<br> 
-[20180200] 최고은 <I AM WATER> 피아노 편곡 영상 촬영<br> 
-[20180228] 11 'Transparent Music' 한국대중음악상 재즈, 크로스오버 부문 노미네이트<br> 
+[20180200] 최고은 <I AM WATER> 피아노 편곡 영상 촬영<br>
+[20180228] 11 'Transparent Music' 한국대중음악상 재즈, 크로스오버 부문 노미네이트<br>
 [20180100] **듣기의 중간태: 반사, 역, 자동(Middle Voice of Listening:Reflexive, Reciprocal, Anti-causative)**, ASSEMBLY (기획 노연)<br> 
   
 ---
