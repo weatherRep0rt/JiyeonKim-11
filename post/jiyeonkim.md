@@ -8,5 +8,9 @@ music and sound compostion for KIM-GUN (2019)
 [먼쓸리 퍼포먼스](mf.md)<br>
 <img src="../img/mf_1902.jpeg"><br>
 
+[먼쓸리 퍼포먼스-텍스트 일부](../../pdf/먼쓸리_받아쓰기_일부.pdf)<br>
+
+
+
 
 
