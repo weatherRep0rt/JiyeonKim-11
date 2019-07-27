@@ -8,5 +8,5 @@
 [[20130912] 소리와 목소리 사이를 서행하다, 김지연, 아트 스페이스 풀](../pdf/sorimoksori.pdf)<br><br>
 
 노트 Notes<br>
-[[20190622] 음악의 경계, 경계의 음악 - 라이브 스트리밍 작업을 중심으로](../pdf/musicontheborder.pdf)<br> 
+[[20190622] 음악의 경계, 경계의 음악 - 라이브 스트리밍 작업을 중심으로, 성북구민여성회관](../pdf/musicontheborder.pdf)<br> 
 [[201609] DHRA2016_Weather Report and Transparent Music, Brighton University](../pdf/DHRA2016_brightonUni.pdf)<br>
