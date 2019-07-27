@@ -1,7 +1,7 @@
 <!--[About](post/aboutcv.md)<br>-->
 [News](post/news.md)<br>
 [Buy](post/buy.md)<br>
-[To Read](post/materials.md)<br><br>
+[Read](post/materials.md)<br><br>
 <!--[Project Links](post/pl.md)<br><br>-->
 
 
