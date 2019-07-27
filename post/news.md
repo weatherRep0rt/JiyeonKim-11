@@ -14,8 +14,8 @@
 ---
 
 [20181123] 11min, 무대륙<br> 
-[20181015] 제주 상시 스트리머 설치, 문화공간 양<br>
-[20181007] &lt;김군&gt;(감독 강상우) 영화음악, 부산국제영화제 와이드앵글부문<br>
+[20181015] [제주 상시 스트리머 설치, 문화공간 양](http://locus.creacast.com:9001/jeju_georo.mp3)<br>
+[20181007] [&lt;김군&gt;(감독 강상우) 영화음악, 부산국제영화제 와이드앵글부문](http://www.biff.kr/kor/html/archive/arc_history_tsearch.asp?mode=view&idx=36279&piff_code=2018)<br>
 [20180811] &lt;Loop Tape - Night and Water&gt;, 1인실의 세계(기획 전솔비), 갤러리175<br>
 [20180807] 포스트사이드, &lt;11과 함께하는 피아노 회복 레슨&gt; 우정국 
 [20180720] 11min, 무대륙<br> 
@@ -23,10 +23,10 @@
 [20180504] 사운드캠프, 북한산 진관동 습지<br> 
 [20180428] 11, 와트엠 WATMM, 무대륙<br>
 [20180424] 월례움직임 Monthly Performance, 조아라 몸소리연구소<br>
-[20180329] 피아노 데이 서울 Piano Day Seoul 2018, 스튜디오로그<br>
+[20180329] [피아노 데이 서울 Piano Day Seoul 2018, 스튜디오로그](https://www.youtube.com/watch?v=uuBhD1N63MU&list=PLxYdgrXFIuCIpNNcm7x8Y3V3g_nc-FqOD)<br>
 [20180324] &lt;투명한 음악&gt; (연출 조용기) 상영, 인디다큐페스티벌<br> 
 [20180200] 최고은 &lt;I AM WATER&gt; 피아노 편곡 영상 촬영<br>
-[20180228] 11 &lt;Transparent Music&gt; 한국대중음악상 재즈, 크로스오버 부문 노미네이트<br>
+[20180228] [11 &lt;Transparent Music&gt; 한국대중음악상 재즈, 크로스오버 부문 노미네이트](http://koreanmusicawards.com/2018/portfolio_page/11transparent-music/)<br>
 [20180100] &lt;듣기의 중간태: 반사, 역, 자동(Middle Voice of Listening:Reflexive, Reciprocal, Anti-causative)&gt;, ASSEMBLY (기획 노연), 문래예술공장<br> 
   
 ---
