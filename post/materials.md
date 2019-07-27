@@ -6,4 +6,4 @@
 [[20140113] 소리의 통로 - 에스토니아 MoKS 레지던스 참가기, 김지연, 아르코웹진](../pdf/sc.pdf)<br>
 [[20130912] 소리와 목소리 사이를 서행하다, 김지연, 아트 스페이스 풀](../pdf/sorimoksori.pdf)<br>
 
-[[201609]DHRA2016_Weather Report and Transparent Music, Brighton University](../pdf/DHRA2016_brightonUni.pdf)<br>
+[[201609] DHRA2016_Weather Report and Transparent Music, Brighton University](../pdf/DHRA2016_brightonUni.pdf)<br>
