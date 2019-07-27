@@ -1,4 +1,4 @@
-[[20170506] *11 - 소리로 세계를 기억한다는 것*, 전대한, 웹진웨이브](../pdf/sorisegye_weiv.pdf)<br>
+[[20170506] 11 - 소리로 세계를 기억한다는 것, 전대한, 웹진웨이브](../pdf/sorisegye_weiv.pdf)<br>
 [[20170203] 반쯤 열린 미술관 작가 인터뷰, 권순우](../pdf/half-opened_door_interview.pdf)<br>
 [[201701] 소리사이, 옥다혜, 미술세계](../pdf/sorisaii_misul.pdf)<br>
 [[201601] 소리는 어디에서 오는가, 조용미, 웨더리포트](../pdf/sorifromwhere_weatherreport.pdf)<br>
