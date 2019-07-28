@@ -56,7 +56,7 @@
 [20161111] &lt;반쯤 열린 방&gt;(기획 차승주),인사미술공간<br>
 [20160916] 웨더리포트, Clear Spot, resonanceFM(런던)<br>
 [20160904] &lt;다섯가지 음맞춤&gt;, 제주문화공간 양<br>
-[20160904] 한-영 리서치 트립 '스트림즈'<br>
+[201609] 한-영 리서치 트립 '스트림즈'<br>
 [201607-09]&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주<br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
