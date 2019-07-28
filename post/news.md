@@ -83,7 +83,7 @@
 [20140619] 정신up데이, 살롱 바다비<br>
 [20140619] 11EP 발매 공연, 무대륙<br>
 [20140306] 11EP 발매<br>
-[20140228] &lt;펼친 책의 왼쪽 페이지 - 미세조정&gt; 클로징 퍼포먼스, 문래예술공장
+[20140228] &lt;펼친 책의 왼쪽 페이지 - 미세조정&gt; 클로징 퍼포먼스, 문래예술공장<br>
 [20140214] dawn scarfe & jiyeon kim - last days of autumn release, &lt;a quiet position - screened # 1&gt; 발매(curated by JrF)<br>
 
 ---
