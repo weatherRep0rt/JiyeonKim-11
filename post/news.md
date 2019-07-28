@@ -15,8 +15,8 @@
 
 [20181123] 11min, 무대륙<br> 
 [20181015] [제주 상시 스트리머 설치, 문화공간 양](http://locus.creacast.com:9001/jeju_georo.mp3)<br>
-[20181007] [&lt;김군&gt;(감독 강상우) 영화음악, 부산국제영화제 와이드앵글부문](http://www.biff.kr/kor/html/archive/arc_history_tsearch.asp?mode=view&idx=36279&piff_code=2018)<br>
-[20180811] [&lt;1인실의 세계&gt;(기획 전솔비), 갤러리175](https://neolook.com/archives/20180811c?fbclid=IwAR2bQb1CunMpSrJTwI0IbyYUBvwuIch5129CnX_M-jC8EXecaKuyj7qH6dU)<br>
+[20181007] [&lt;김군&gt;(감독 강상우), 음악감독, 부산국제영화제 와이드앵글부문](http://www.biff.kr/kor/html/archive/arc_history_tsearch.asp?mode=view&idx=36279&piff_code=2018)<br>
+[20180811] [&lt;1인실의 세계&gt;(기획 전솔비), 참여작가, 갤러리175](https://neolook.com/archives/20180811c?fbclid=IwAR2bQb1CunMpSrJTwI0IbyYUBvwuIch5129CnX_M-jC8EXecaKuyj7qH6dU)<br>
 [20180807] 포스트사이드, &lt;11과 함께하는 피아노 회복 레슨&gt; 우정국 
 [20180720] 11min, 무대륙<br> 
 [20180609] &lt;투명한 음악&gt; (감독 조용기) 상영, 인디포럼 영화제<br> 
