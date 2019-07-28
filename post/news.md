@@ -60,7 +60,7 @@
 [201607-09] [&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주](https://us11.campaign-archive.com/home/?u=2df8abd31ed93a75e3f1a9d74&id=0db8bf840f)<br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
-[20160111] 업사이클 라운드업 &lt;선유도-소리의정원&gt; 상영, 문래예술공장<br>
+[20160111] [업사이클 라운드업 &lt;선유도-소리의정원&gt; 상영, 문래MAP 지원사업, 문래예술공장](https://vimeo.com/165497624)<br>
 [201601] 웨더리포트(2015년 8-12월, 제주) 발간<br>
 
 ---
