@@ -47,8 +47,8 @@
 [20170429] &lt;데이터 감각, 시간 감각&gt;-&lt;투명한 음악&gt; 리뷰북 출간<br>
 [20170401] 11 &lt;Transparent Music&gt; 앨범발매 공연, 스튜디오로그<br>
 [20170324] ToBeContinued, stazionediopolo<br>
-[20170309] &lt;Transparent Music&gt; 발매<br>
-[20170205] &lt;투명한 음악&gt;, 문래예술공장<br> 
+[20170309] [11, &lt;Transparent Music&gt; 발매](http://poclanos.com/station/transparent-music/)<br>
+[20170205] [&lt;투명한 음악&gt;, 문래MAP 지원사업, 문래예술공장](https://www.facebook.com/events/583825365148154/)<br> 
 
 ---
 
