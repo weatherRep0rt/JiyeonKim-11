@@ -57,7 +57,7 @@
 [20160916] 웨더리포트, Clear Spot, resonanceFM(런던)<br>
 [20160904] &lt;다섯가지 음맞춤&gt;, 제주문화공간 양<br>
 [201609] 한-영 리서치 트립 '스트림즈'<br>
-[201607-09]&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주<br>
+[201607-09] [&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주](https://us11.campaign-archive.com/home/?u=2df8abd31ed93a75e3f1a9d74&id=0db8bf840f)<br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
 [20160111] 업사이클 라운드업 &lt;선유도-소리의정원&gt; 상영, 문래예술공장<br>
@@ -69,7 +69,7 @@
 [20151227] &lt;구경꾼-처럼, 곁에 했다&gt;(안무 장현준), 공동음악감독, 한국예술종합학교 예술극장<br>
 [201511] &lt;리스닝 진 워크숍&gt;, 시안미술관<br>
 [20151022] &lt;천상열차분야지도&gt;(감독 박찬경), 음악, 국립무형유산영상페스티벌 개막작<br>
-[201508-12]&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주<br>
+[201508-12] [&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주](https://us11.campaign-archive.com/home/?u=2df8abd31ed93a75e3f1a9d74&id=0db8bf840f)<br>
 [20150604] &lt;Passing Glitches&gt;(기획 Joseph Constable), Peckhamplex, London<br>
 [20150430] 라이브 스트리밍 제주, reveil<br>
 [20150125] &lt;속삭임의 회랑&gt;(작가 김태원), 사운드 인스톨레이션, 은평구립도서관<br>
