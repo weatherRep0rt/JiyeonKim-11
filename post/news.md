@@ -25,7 +25,7 @@
 [20180424] 월례움직임 Monthly Performance, 조아라 몸소리연구소<br>
 [20180329] [피아노 데이 서울 Piano Day Seoul 2018, 스튜디오로그](https://www.youtube.com/watch?v=uuBhD1N63MU&list=PLxYdgrXFIuCIpNNcm7x8Y3V3g_nc-FqOD)<br>
 [20180324] &lt;투명한 음악&gt; (연출 조용기) 상영, 인디다큐페스티벌<br> 
-[20180200] 최고은 &lt;I AM WATER&gt; 피아노 편곡 영상 촬영<br>
+[20180200] [최고은 &lt;I AM WATER&gt; 피아노 편곡](https://www.youtube.com/watch?v=pwVXqpDAX-4)<br>
 [20180228] [11 &lt;Transparent Music&gt; 한국대중음악상 재즈, 크로스오버 부문 노미네이트](http://koreanmusicawards.com/2018/portfolio_page/11transparent-music/)<br>
 [20180100] &lt;듣기의 중간태: 반사, 역, 자동(Middle Voice of Listening:Reflexive, Reciprocal, Anti-causative)&gt;, ASSEMBLY (기획 노연), 문래예술공장<br> 
   
@@ -33,7 +33,7 @@
 
 [20171224] 뉴뮤직 아트마켓 ATM, 우정국<br> 
 [20171223] 최고은 노마드신드롬, 게스트 공연 11, 벨로주<br> 
-[20171206] &lt;120min&gt;(안무 최승윤) 공동음악감독, 문래예술공장<br>
+[20171206] [&lt;120min: I by you by everybody&gt;(안무 최승윤), 사운드, 문래예술공장](https://www.youtube.com/watch?v=82fBHGToPk8)<br>
 [20171122] &lt;다중입력 네트워크 신디사이저&gt;, '두번째 도시 세번째 공동체'(기획 채은영), 스페이스 XX, 임시공간<br> 
 [20171017] &lt;빈 터널&gt;, 제주 문화공간 양 레지던스<br> 
 [20170909] &lt;이동하는 그림자&gt;, 홍천 미술관, 분홍공장 레지던스<br>
