@@ -6,7 +6,7 @@
 [20190810] 제천국제음악영화제 '음악 들려주는 영화관', 웨더리포트 &lt;투명한 음악&gt; 쇼케이스, 제천시민회관<br>
 [20190622] 창의적 음악활동을 위한 강사초빙 워크숍 &lt;음악의 경계, 경계의 음악&gt;, 성북구민여성회관<br>
 [20190504] [사운드 캠프 제주 Soundcamp 제주-런던 네트워크 사운드 퍼포먼스 Ambient Exchange with 이강일, 샘 바라이서 스미스, 맥스 바라이서 스미스, 문화공간 양(한국), 스태브 힐 생태공원(영국)](https://vimeo.com/337064106)<br>
-[20190329] [피아노 데이 서울 Piano Day Seoul 2019, 적도(한국), 산 메이 갤러리](https://vimeo.com/337064083)(영국)<br>
+[20190329] [피아노 데이 서울 Piano Day Seoul 2019, 적도(한국), 산 메이 갤러리(영국)](https://vimeo.com/337064083)<br>
 [20190226] 월례움직임 Monthly Performance with 차미혜, 적도<br>
 [20190126] [18th 하울링 라이브 Howling Live, 적도](https://www.youtube.com/watch?v=1GwTAvup4IE)<br>
 [20190120] 오로음감회, 게스트공연, 적도<br>
